@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdul\\source\\repos\\IdentitySecurityApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43D474B0-8ADF-4ADF-86A9-FDD81D8C7EE9}|IdentitySecurityApp\\IdentitySecurityApp.csproj|c:\\users\\abdul\\source\\repos\\identitysecurityapp\\identitysecurityapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43D474B0-8ADF-4ADF-86A9-FDD81D8C7EE9}|IdentitySecurityApp\\IdentitySecurityApp.csproj|solutionrelative:identitysecurityapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\IdentitySecurityApp\\IdentitySecurityApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IdentitySecurityApp\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\IdentitySecurityApp\\IdentitySecurityApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "IdentitySecurityApp\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T21:20:58.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
